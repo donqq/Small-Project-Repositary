@@ -14,7 +14,7 @@ https://jsfiddle.net/donqq/2v8fpajb/6/
 https://jsfiddle.net/donqq/j56nfcLd/38/
 
 5. Resize a Remote Image in Clientside with Javascript Canvas
-https://jsfiddle.net/donqq/fv6hsdzb/67/
+https://jsfiddle.net/donqq/fv6hsdzb/70/
 
 6. Generate Random Numbers
 https://jsfiddle.net/donqq/kf85xth2/2/
