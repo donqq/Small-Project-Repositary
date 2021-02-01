@@ -1,4 +1,5 @@
 ## Small JavaScript Projects List
+Small Javascript/Typescript projects I have written for helping people in stackoverflow.
 
 1. Change Colour of Background
 https://jsfiddle.net/donqq/f2bda7jp/23/
@@ -17,3 +18,11 @@ https://jsfiddle.net/donqq/fv6hsdzb/59/
 
 6. Generate Random Numbers
 https://jsfiddle.net/donqq/kf85xth2/2/
+
+
+## Developer
+Badde Liyanage Don Dilanga, 2020/December, github@dilanga.com.
+Sri Lanka LK. 
+
+# License
+N/A
