@@ -19,8 +19,9 @@ https://jsfiddle.net/donqq/fv6hsdzb/70/
 6. Generate Random Numbers
 https://jsfiddle.net/donqq/kf85xth2/2/
 
-7. Adding a value to an array at any location without replacing or removing any content.
-https://jsfiddle.net/donqq/3wxf6eah/1/
+7. Adding a value to an array at any location without replacing or removing any content. </br>
+https://jsfiddle.net/donqq/3wxf6eah/1/ </br>
+https://jsfiddle.net/donqq/3wxf6eah/6/
 
 
 ## Developer
