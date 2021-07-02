@@ -35,4 +35,4 @@ Badde Liyanage Don Dilanga, Updating since 2020/December, github@dilanga.com.
 Sri Lanka LK. 
 
 # License
-N/A
+These are my own solutions. You may copy and use it as you wish. 
