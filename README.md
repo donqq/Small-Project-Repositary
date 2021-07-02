@@ -23,9 +23,12 @@ https://jsfiddle.net/donqq/kf85xth2/2/
 https://jsfiddle.net/donqq/3wxf6eah/1/ </br>
 https://jsfiddle.net/donqq/3wxf6eah/6/
 
+8. Invert A String in C# (2021 - July)
+https://dotnetfiddle.net/4vpRrD
+
 
 ## Developer
-Badde Liyanage Don Dilanga, 2020/December, github@dilanga.com.
+Badde Liyanage Don Dilanga, Updating since 2020/December, github@dilanga.com.
 Sri Lanka LK. 
 
 # License
