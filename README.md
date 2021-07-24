@@ -23,6 +23,9 @@ https://jsfiddle.net/donqq/kf85xth2/2/
 https://jsfiddle.net/donqq/3wxf6eah/1/ </br>
 https://jsfiddle.net/donqq/3wxf6eah/6/
 
+8. Remove Duplicate Numbers from a Number array (O(n2) efficiency) (2021- July) 
+https://jsfiddle.net/donqq/uw6ypo87/1/
+
 ## Small C# Projects List
 Small C# projects I have written
 
